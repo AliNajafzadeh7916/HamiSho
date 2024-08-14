@@ -1,0 +1,69 @@
+flutter_native_splash:
+  
+  fullscreen: false
+
+  color: "#ffffff"
+  #background_image: "assets/background.png"
+  # image: assets/icon.png
+
+  color_dark: "#ffffff"
+  #background_image_dark: "assets/dark-background.png"
+  #image_dark: assets/splash-invert.png
+  #branding_dark: assets/dart_dark.png
+
+
+  android_12:
+    
+    color: "#ffffff"
+    #image: assets/android12splash.png
+    #icon_background_color: "#111111"
+
+    color_dark: "#ffffff"
+    #image_dark: assets/android12splash-invert.png
+    #icon_background_color_dark: "#eeeeee"
+
+    #branding: assets/dart.png
+
+
+  android: true
+  ios: false
+  web: false
+
+#color_android: "#42a5f5"
+  #color_dark_android: "#042a49"
+  #color_ios: "#42a5f5"
+  #color_dark_ios: "#042a49"
+  #color_web: "#42a5f5"
+  #color_dark_web: "#042a49"
+  #image_android: assets/splash-android.png
+  #image_dark_android: assets/splash-invert-android.png
+  #image_ios: assets/splash-ios.png
+  #image_dark_ios: assets/splash-invert-ios.png
+  #image_web: assets/splash-web.gif
+  #image_dark_web: assets/splash-invert-web.gif
+  #background_image_android: "assets/background-android.png"
+  #background_image_dark_android: "assets/dark-background-android.png"
+  #background_image_ios: "assets/background-ios.png"
+  #background_image_dark_ios: "assets/dark-background-ios.png"
+  #background_image_web: "assets/background-web.png"
+  #background_image_dark_web: "assets/dark-background-web.png"
+  #branding_android: assets/brand-android.png
+  #branding_dark_android: assets/dart_dark-android.png
+  #branding_ios: assets/brand-ios.png
+  #branding_dark_ios: assets/dart_dark-ios.png
+  #branding_web: assets/brand-web.gif
+  #branding_dark_web: assets/dart_dark-web.gif
+
+  
+  # android_gravity: center
+ 
+  #ios_content_mode: center
+ 
+  #web_image_mode: center
+
+  #android_screen_orientation: sensorLandscape
+
+
+  #info_plist_files:
+  #  - 'ios/Runner/Info-Debug.plist'
+  #  - 'ios/Runner/Info-Release.plist'
