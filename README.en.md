@@ -80,11 +80,11 @@ The application should now be available on the emulator or connected device.
 
 To interact with the backend, the application uses the following endpoints:
 
-- GET ${headUrl}getCandidateInfo/ - Retrieve candidate information
-- GET ${headUrl}getPostCandidate/ - Retrieve candidate posts
-- GET ${headUrl}getNewsCandidate/ - Retrieve candidate news
-- POST ${headUrl}setSupporter/ - Register supporter for the candidate
-- POST ${headUrl}setMessageToCandidate/ - Send message to the candidate
+- GET /getCandidateInfo/ - Retrieve candidate information
+- GET /getPostCandidate/ - Retrieve candidate posts
+- GET /getNewsCandidate/ - Retrieve candidate news
+- POST /setSupporter/ - Register supporter for the candidate
+- POST /setMessageToCandidate/ - Send message to the candidate
 
 ## Contributing
 
